@@ -1,5 +1,5 @@
 import React from 'react';
-import SearchCep from './components/SearchCep';
+import SearchCep from './components/searchCep';
 
 function App() {
   return (
