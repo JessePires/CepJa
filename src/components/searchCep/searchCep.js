@@ -13,7 +13,7 @@ const SearchCep = ({
   isFetching 
 }) => (
   <div>
-    <h1>CEP</h1>
+    <h1>CEP Já</h1>
 
     <form onSubmit={ handleSubmit }>
       <input type='text' name='cep' />
